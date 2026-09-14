@@ -1,0 +1,12 @@
+# Core: everything needed to reproduce the submission and the figures.
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+scikit-learn==1.9.1
+lightgbm==4.7.0
+matplotlib==3.11.1
+
+# Optional extras.
+# jupyter==1.1.1          # run notebooks/inrange_ball_flight.ipynb locally
+# nbformat==5.11.1        # rebuild that notebook
+# imageio-ffmpeg==0.6.0   # write MP4 animations instead of GIFs

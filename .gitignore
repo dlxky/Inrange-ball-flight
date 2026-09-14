@@ -1,0 +1,10 @@
+# Competition data: never redistribute (Kaggle rule 2.4b)
+inrange-competition/
+inrange-competition.zip
+
+# Environment and generated artefacts
+.venv/
+outputs/
+__pycache__/
+*.pyc
+*.zip
